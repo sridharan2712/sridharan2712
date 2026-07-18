@@ -416,11 +416,11 @@ Java Android Applications
 <img src="https://skillicons.dev/icons?i=gmail" />
 </a>
 
-<a href="https://linkedin.com/in/YOUR_LINKEDIN">
+<a href="https://www.linkedin.com/in/sri-dharan-s-b4bb4b318/">
 <img src="https://skillicons.dev/icons?i=linkedin" />
 </a>
 
-<a href="https://YOUR_PORTFOLIO_URL">
+<a href="https://sridharan2712.github.io/simple-portfolio/">
 <img src="https://skillicons.dev/icons?i=devto" />
 </a>
 
